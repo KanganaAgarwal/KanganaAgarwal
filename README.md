@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Kangana Agarwal 
 
-<!--
-**KanganaAgarwal/KanganaAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Passionate about building web applications and learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🎓 B.Tech (Computer Science) – 3rd Year
+* 🌱 Currently improving my **Full Stack Development** skills
+* 💻 Interested in **Frontend & Backend Development**
+* 📚 Always learning and building projects
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java ☕
+* JavaScript ⚡
+
+### Frontend
+
+* React.js ⚛️
+* HTML
+* CSS
+
+### Backend
+
+* Node.js 🟢
+
+## 🔭 Current Focus
+
+* Building Full Stack Projects
+* Improving DSA & Problem Solving
+* Learning industry-level development practices
+
+## 🤝 Open to
+
+* Collaboration on interesting projects
+* Learning from developers
+* Open Source contributions
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/KanganaAgarwal
+
+---
+
+⭐ Thanks for visiting my profile!
