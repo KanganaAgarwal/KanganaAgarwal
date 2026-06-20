@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Kangana Agarwal</h1>
-<h3 align="center">Full Stack Developer | Java | JavaScript | React | Node.js</h3>
+# Hi 👋 I'm Kangana Agarwal
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+%26+Node.js+Learner;Welcome+to+my+GitHub!" />
-</p>
+### 💻 Full Stack Developer | B.Tech CSE Student
 
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Tech Stack: **HTML, CSS, JavaScript, Java, React, Node.js**
-- 📌 Building projects and improving every day
-- ⚡ Goal: Become a skilled Full Stack Developer
+🚀 Passionate about Full Stack Development and building modern web applications.
 
 ---
 
-## 🌐 Connect With Me
+## 👩‍💻 About Me
+
+* 🎓 B.Tech – Computer Science (3rd Year)
+* 🌱 Currently learning and improving Full Stack Development
+* 💡 Interested in Web Development & Problem Solving
+* ⚡ Exploring real-world projects
+
+---
+
+## 🌐 Connect with me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/KanganaAgarwal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -28,75 +28,68 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KanganaAgarwal&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanganaAgarwal&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
-
+<img src="https://streak-stats.demolab.com?user=KanganaAgarwal&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanganaAgarwal\&theme=react-dark)](https://github.com/KanganaAgarwal)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+---
 
-</p>
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/KanganaAgarwal/KanganaAgarwal/output/github-contribution-grid-snake.svg"/>
+
+---
+
+## ✨ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=KanganaAgarwal&label=Profile%20Views&color=blue"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=7"/>
-
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=KanganaAgarwal&theme=tokyonight"/>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Fun Quote
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Current Goals
 
-| Project | Description |
-|----------|-------------|
-| Portfolio | Personal portfolio website |
-| Login Form | HTML CSS Login Page |
-| React App | React Project |
+✔ Build Full Stack Projects
+✔ Improve DSA
+✔ Learn Advanced React & Backend
+✔ Contribute to Open Source
 
 ---
 
-<p align="center">
-⭐ Keep Building • Keep Learning ⭐
-</p>
+⭐ Thanks for visiting my profile!
