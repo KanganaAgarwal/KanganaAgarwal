@@ -31,21 +31,10 @@
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,vscode" />
 </p>
 
----
-
-
-
----
 
 
 
 
-
-
----
-
-
----
 
 
 
