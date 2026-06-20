@@ -33,25 +33,10 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KanganaAgarwal&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanganaAgarwal&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
-## 🔥 Contribution Streak
 
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=KanganaAgarwal&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 
 
@@ -59,29 +44,14 @@ src="https://github-readme-streak-stats.herokuapp.com?user=KanganaAgarwal&theme=
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanganaAgarwal\&theme=react-dark)](https://github.com/KanganaAgarwal)
 
 ---
 
-## 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/KanganaAgarwal/KanganaAgarwal/output/github-contribution-grid-snake.svg"/>
 
 ---
 
-## ✨ Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=KanganaAgarwal&label=Profile%20Views&color=blue"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=KanganaAgarwal&theme=tokyonight"/>
-
----
 
 ## ⚡ Fun Quote
 
