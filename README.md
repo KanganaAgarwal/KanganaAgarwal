@@ -30,7 +30,14 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,vscode" />
 </p>
+---
 
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 
