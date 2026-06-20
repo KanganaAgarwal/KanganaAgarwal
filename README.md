@@ -36,7 +36,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=60"/>
+<img src="https://streak-stats.demolab.com?user=KanganaAgarwal&theme=tokyonight&cache_seconds=60"/>
 </p>
 
 
