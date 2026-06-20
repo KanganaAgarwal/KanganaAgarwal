@@ -41,52 +41,15 @@ Full Stack Developer • Java • JavaScript • React • Node.js
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=KanganaAgarwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanganaAgarwal&layout=compact&theme=radical"/>
 
-</p>
 
----
 
-# 🔥 Contribution Streak
 
-<p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=KanganaAgarwal&theme=radical&hide_border=false"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=KanganaAgarwal&theme=react-dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=KanganaAgarwal&theme=radical&row=1&column=7"/>
-
-</p>
-
----
 
 # ⚡ Profile Views
 
